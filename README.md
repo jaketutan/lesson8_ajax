@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Jake Tutan
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Using Ajax and Javascript, this project displays information from OMDB to show you information about any movie searched.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://jaketutan.github.io/lesson8_ajax/.
+ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to create AJAX commands which allow you to change information on the web page without reloading. 
+2. I learned how AJAX can link a web page to an API that uses variables to convey information. 
+3. I learned how to use Javascript classes within a web page code in order to call Ajax functions. 
